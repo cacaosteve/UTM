@@ -47,10 +47,10 @@ VULKAN_LOADER_REPO="https://github.com/osy/Vulkan-Loader.git"
 VULKAN_LOADER_COMMIT="6df86907be582927507637f3f6003ea58bc34517"
 VIRGLRENDERER_REPO="https://github.com/utmapp/virglrenderer.git"
 VIRGLRENDERER_COMMIT="d48a2d0d9a722fffd3f92c83e71d9426a4892a66"
-# Lab pin: Steve-owned GitHub publish of osy/mesa 79bc850d884 + push-const 256 + depth_clip + maintenance5/6 + robustness2 + LLVM 23 CLC.
+# Lab pin: Steve-owned GitHub publish of osy/mesa 79bc850d884 + push-const 256 + depth_clip + maintenance5/6 + robustness2 + xfb + LLVM 23 CLC.
 # Canonical upstream remains https://gitlab.freedesktop.org/osy/mesa.git (see fork README / import commit).
 MESA_REPO="https://github.com/cacaosteve/mesa-kosmickrisp.git"
-MESA_COMMIT="16c3146927794dd4777a68b0d322841f5ecc9a3d"
+MESA_COMMIT="1fce983a35c0e3233d77f5b84c4e7d2aa40682fa"
 MOLTENVK_REPO="https://github.com/utmapp/MoltenVK.git"
 MOLTENVK_COMMIT="111c14f3abf5c00118fc7a5b00c92d7abbf40f62"
 
