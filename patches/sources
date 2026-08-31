@@ -50,7 +50,7 @@ VIRGLRENDERER_COMMIT="d48a2d0d9a722fffd3f92c83e71d9426a4892a66"
 # Lab pin: Steve-owned GitHub publish of osy/mesa 79bc850d884 + push-const 256 + depth_clip + maintenance5/6 + robustness2 + xfb + LLVM 23 CLC.
 # Canonical upstream remains https://gitlab.freedesktop.org/osy/mesa.git (see fork README / import commit).
 MESA_REPO="https://github.com/cacaosteve/mesa-kosmickrisp.git"
-MESA_COMMIT="1fce983a35c0e3233d77f5b84c4e7d2aa40682fa"
+MESA_COMMIT="7556c31249e9753f9bcae47a9b05e49356e28a93"
 MOLTENVK_REPO="https://github.com/utmapp/MoltenVK.git"
 MOLTENVK_COMMIT="111c14f3abf5c00118fc7a5b00c92d7abbf40f62"
 
